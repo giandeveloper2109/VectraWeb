@@ -1,5 +1,5 @@
 # VectraWeb
-<img src="https://github.com/giandeveloper2109/VectraWeb/blob/main/src/assets/vectra.png?raw=true" alt="Descripción de la imagen" width="600" height="300" align="middle">
+<img src="https://github.com/giandeveloper2109/VectraWeb/blob/main/src/assets/vectra.png?raw=true" alt="Descripción de la imagen" width="600" height="400" align="middle">
 ## Project setup
 
 ```
