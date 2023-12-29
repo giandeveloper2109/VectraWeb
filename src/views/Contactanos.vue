@@ -1,6 +1,6 @@
 <template>
 <v-responsive>
-    <h1 class="text-center"  style="color: #f4a414;">Contáctanos</h1>
+    <h1 class="text-center"  style="color: #5c5c5c;">Contáctanos</h1>
 
     <div>   
     <v-row>

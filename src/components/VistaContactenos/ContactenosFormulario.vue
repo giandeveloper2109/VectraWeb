@@ -61,14 +61,14 @@
     <v-divider :thickness="20" class="border-opacity-0"></v-divider>
     <v-row class="align-center justify-center">
       <v-btn
-        style="background-color: #f4a414;"
+        style="background-color: #727272;color: aliceblue;"
         class="me-4"
         type="submit"
       >
         Enviar
       </v-btn>
   
-      <v-btn @click="handleReset" style="background-color: #f4a414;">
+      <v-btn @click="handleReset" style="background-color: #727272;color: aliceblue;">
         Limpiar
       </v-btn>
     </v-row>
